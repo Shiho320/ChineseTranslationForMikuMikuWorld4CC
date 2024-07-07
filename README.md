@@ -1,6 +1,8 @@
 # ChineseTranslationForMikuMikuWorld4CC
 MikuMikuWorld4CC的中文翻译
 
+MikuMikuWorld4CC本家链接：[这里](https://github.com/sevenc-nanashi/MikuMikuWorld4CC)
+
 考虑到目前该软件没有中文翻译，正在努力制作中
 
 目前已完成初稿，欢迎大家修正翻译
