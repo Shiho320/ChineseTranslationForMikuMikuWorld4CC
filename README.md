@@ -1,0 +1,2 @@
+# ChineseTranslationForMikuMikuWorld4CC
+Chinese translation for MikuMikuWorld4CC
